@@ -1,0 +1,11 @@
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\Majkelo\Desktop\ONLINE-ZAJECIA\projekt3-algo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
